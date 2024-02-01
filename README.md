@@ -45,7 +45,15 @@ pip install tkinter plyer
 
 Insert screenshots of the application here (if desired).
 
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://github.com/ShubuYeole/To-Do-App/blob/main/Screenshots/reminder.png?raw=true)
+
+
+![ScreenShot](https://github.com/ShubuYeole/To-Do-App/blob/main/Screenshots/mark%20as%20done.png?raw=true)
+
+
+![ScreenShot](https://github.com/ShubuYeole/To-Do-App/blob/main/Screenshots/Notifications.png?raw=true)
+
+
 
 ## Contributing
 
